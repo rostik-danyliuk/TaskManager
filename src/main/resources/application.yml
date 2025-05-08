@@ -1,8 +1,9 @@
 spring:
   data:
     mongodb:
-      uri: mongodb://localhost:27017/taskdb
+      uri: ${SPRING_DATA_MONGODB_URI}  # URI передається через docker-compose.yml
   thymeleaf:
     cache: false
+
 server:
   port: 8080
