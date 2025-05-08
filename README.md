@@ -1,0 +1,1 @@
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/5277ccc7b36242d3b8e3e062e7e9e4a0)](https://app.codacy.com/gh/rostik-danyliuk/TaskManager/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
